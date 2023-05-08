@@ -2,7 +2,7 @@
   "name": "random-color-generator",
   "version": "1.0.0",
   "description": "",
-  "main": "/server/main.js",
+  "main": ".",
   "scripts": {
     "start": "node /server/main.js"
   },
