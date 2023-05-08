@@ -2,14 +2,17 @@
   "name": "random-color-generator",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "/server/main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node /server/main.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "tailwindcss": "^3.3.2"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
   }
 }
